@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LLM_tag.iml" filepath="$PROJECT_DIR$/.idea/LLM_tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLM_on_Sentiment_in_Group_Interaction.iml" filepath="$PROJECT_DIR$/.idea/LLM_on_Sentiment_in_Group_Interaction.iml" />
     </modules>
   </component>
 </project>
