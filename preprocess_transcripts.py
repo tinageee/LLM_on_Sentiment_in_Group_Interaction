@@ -136,6 +136,8 @@ issue_b4_cleaning = screening_transcript(transcripts, game_names)
 # clean transcript and remove the missing data
 transcripts = clean_transcript(transcripts)
 transcripts = transcripts.dropna(subset=['trans'])
+# check the issues after cleaning
+transcripts['trans'].isna().sum()
 
 issue_after_cleaning = screening_transcript(transcripts, game_names)
 
